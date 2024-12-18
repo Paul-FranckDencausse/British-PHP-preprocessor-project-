@@ -1,0 +1,2 @@
+£nom = "Paul";
+echo £nom;
